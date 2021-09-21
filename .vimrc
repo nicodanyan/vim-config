@@ -1,7 +1,7 @@
 " Deactivate visual mode
 set mouse=
 
-" Activate syntaxic coloration
+" Activate syntax coloration
 syntax on
 
 " set the number of each line
